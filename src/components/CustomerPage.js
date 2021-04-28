@@ -86,7 +86,7 @@ const CustomerPage = () => {
         </Button>
       </Form>
       <Link to='/customer-list' class='btn btn-success m-5'>
-        Item List
+        Customer List
       </Link>
     </>
   );
