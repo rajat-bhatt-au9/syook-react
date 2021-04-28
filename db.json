@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "furniture",
+      "price": "45"
+    },
+    {
+      "id": 2,
+      "name": "fruits",
+      "price": "45"
+    },
+    {
+      "id": 3,
+      "name": "Material",
+      "price": "105"
+    },
+    {
+      "id": "ef1b02d9-f3c8-41a3-8b33-1208f378c90a",
+      "name": "rajat",
+      "price": "34"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Rajat Bhatt",
+      "city": "Dehradun"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "1",
+      "regNum": "UK07 3456",
+      "type": "Truck",
+      "city": "Dehradun"
+    },
+    {
+      "id": "3273b533-3890-4bf5-b3ff-8e55be75b3ed",
+      "regNum": "123456",
+      "type": "",
+      "city": "r4g"
+    },
+    {
+      "id": "1fe5ea58-be41-454f-b822-7e039616ec5b",
+      "regNum": "UK075467",
+      "type": "Truck",
+      "city": "Delhi"
+    },
+    {
+      "id": "2ddfd402-7080-493b-aa0e-25ff791ee37e",
+      "city": "qwerty",
+      "type": "Two-wheeler",
+      "regNum": "UK075468"
+    },
+    {
+      "id": "590d7a85-744d-4c1a-92bc-515117cad2d0",
+      "regNum": "uk136734",
+      "type": "Truck",
+      "city": "hehflflwlifl "
+    },
+    {
+      "id": "d217bf3d-e45a-4ba7-9f6f-f014e7d7813d",
+      "regNum": "DL075469",
+      "type": "Two-wheeler",
+      "city": "Haldwani"
+    }
+  ],
+  "orders": [
+    {
+      "orderNumber": "o123",
+      "itemId": "1",
+      "price": "$45",
+      "customerId": "1",
+      "deliveryVehicleId": "Truck"
+    }
+  ]
+}
